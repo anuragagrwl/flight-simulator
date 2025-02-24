@@ -1,4 +1,4 @@
-# Agan Flight Simulator
+# Flight Simulator
 
 A modern 3D flight simulator built with Three.js and React. Experience realistic flight physics, dynamic weather, and engaging combat mechanics.
 
